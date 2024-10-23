@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3001;
 app.use(express.static("public"));
 
 
-app.listen(PORT, () => console.log('servidor corriendo en el puerto +{port}'));
+app.listen(PORT, () => console.log('servidor corriendo en el puerto 3001'));
 
 //app.listen(process.env.PORT || 3000, () => console.log("SERVIDOR FUNCIONANDO EN EL PUERTO 3000 "));
 
