@@ -1,0 +1,25 @@
+{
+  "name": "mercadoliebre",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "npx nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristian3103/mercado_liebre1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cristian3103/mercado_liebre1/issues"
+  },
+  "homepage": "https://github.com/cristian3103/mercado_liebre1#readme",
+  "description": ""
+}
